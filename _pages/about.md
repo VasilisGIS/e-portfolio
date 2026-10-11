@@ -37,3 +37,14 @@ During my undergraduate studies I had the opportunity to partake in 3 internship
 ### Discovering Geoinformatics
 My experience in Cyprus was particularly influential in formulating my academic direction. During my internship I had the opportunity to participate in fitting GNSS tracking devices to European turtle doves (Streptopelia turtur) and analyze their migration patterns through Geographic information systems (GIS) for my bachelor’s thesis. I became particularly interested on how programming and automation can simplify complex workflows and improve efficiency.
 For me geoinformatics is an opportunity to combine my interests of the natural world and technology.		 
+
+
+<style>
+@media (min-width: 768px) {
+  .profile {
+    position: relative;
+    left: 15px;
+  }
+}
+</style>
+
