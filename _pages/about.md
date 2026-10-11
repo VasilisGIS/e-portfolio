@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Welcome to my portfolio!
-
 ### My Background
 
 I am a Master’s student of Applied Geoinformatics at the university of Salzburg, Austria, having previously graduated with a bachelor’s degree in Wildlife Management and Engineering from the Hungarian university of Agriculture and Life sciences (MATE). My academic journey has been formulated by two interests that developed independently throughout my life: wildlife and technology.
