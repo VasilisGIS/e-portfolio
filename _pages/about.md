@@ -36,7 +36,6 @@ Along side my passion for nature, I developed an early curiosity about programmi
 ### Academic Journey
 
 During my undergraduate studies I had the opportunity to partake in 3 internships across different areas of environmental of environmental and wildlife management. In Sicily, I contributed in monitoring the condition of Posidonia/seagrass meadows with project MANAIA. In Transylvania, I gained practical experience in wildlife game management, while in Cyprus, I joined the wildlife research team of the game and fauna service and worked on conservation and monitoring projects.
-### 
-Discovering Geoinformatics
+### Discovering Geoinformatics
 My experience in Cyprus was particularly influential in formulating my academic direction. During my internship I had the opportunity to participate in fitting GNSS tracking devices to European turtle doves (Streptopelia turtur) and analyze their migration patterns through Geographic information systems (GIS) for my bachelor’s thesis. I became particularly interested on how programming and automation can simplify complex workflows and improve efficiency.
 For me geoinformatics is an opportunity to combine my interests of the natural world and technology.		 
