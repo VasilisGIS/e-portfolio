@@ -6,7 +6,7 @@ subtitle: MSc Applied Geoinformatics | University of Salzburg
 
 profile:
   align: right
-  image: 
+  image: portfolio_about.jpeg
   image_circular: false
   more_info: 
 
